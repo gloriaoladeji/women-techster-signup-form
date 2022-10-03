@@ -45,7 +45,7 @@ color: #fff;
     margin: 20px 0;
     padding: 10px 15px;
     width: 50%;
-    border: 0;
+    border-color: blue;
     border-radius: 10px;
     background-color: #fff;
 }
@@ -56,5 +56,6 @@ color: #fff;
 
 .signup-form button:hover {
     background-color: blue;
+    color: #fff;
 }
 
